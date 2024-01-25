@@ -2,16 +2,25 @@ apiVersion: v1
 entries:
   nginx-helm:
   - apiVersion: v2
-    created: "2024-01-24T14:42:49.513808412+06:00"
+    created: "2024-01-25T19:06:31.359697124+06:00"
     description: A Helm chart for Kubernetes
-    digest: 1691037ad1818581c2850e1ee12891da0043a67a973eff7bbe9a277915196173
+    digest: 6f069dc694f6a46ad06d27b7c4ddda273d5395e20713f35cc1e10f2d0f97d24f
+    name: nginx-helm
+    type: application
+    urls:
+    - nginx-helm-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v2
+    created: "2024-01-25T19:06:31.358032518+06:00"
+    description: A Helm chart for Kubernetes
+    digest: 1c641e4ff6d52a573393806c32b1d979cc3538790d4aeaca3982392e57923820
     name: nginx-helm
     type: application
     urls:
     - nginx-helm-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v2
-    created: "2024-01-24T14:42:49.513697099+06:00"
+    created: "2024-01-25T19:06:31.357895755+06:00"
     description: A Helm chart for Kubernetes
     digest: ab09cf175b2b32b31cba45b56923e7852dbad61c8a33a2bcd1d85345709795ad
     name: nginx-helm
@@ -19,4 +28,4 @@ entries:
     urls:
     - nginx-helm-0.0.1.tgz
     version: 0.0.1
-generated: "2024-01-24T14:42:49.513281234+06:00"
+generated: "2024-01-25T19:06:31.357137838+06:00"
